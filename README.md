@@ -1,21 +1,20 @@
-<div align="center">
-  <h1>🔨 thyrn90 | The Ancient Forge</h1>
-  <p><i>"I do not write code. I strike the anvil of the architecture, and the system trembles."</i></p>
-</div>
+# thyrn90
+
+*"Compilers lie. The binary is the only truth."*
 
 ---
 
-Legend speaks of an ancient blacksmith whose hammer strikes upon the anvil did not merely shape iron, but shook the very foundations of the world. In the deepest layers of the digital abyss, that forge still burns. I am **thyrn90**.
+I've never been a fan of high-level abstractions. To me, using modern frameworks feels like trying to forge a sword while wearing thick oven mitts. I like to feel the bare metal.
 
-Long before the modern era of fragile frameworks and comforting high-level abstractions, the true foundations were forged in raw steel—in the bare metal of the machine. I am a **Reverse Engineer and Systems Architect** of the old guard. I operate in the forgotten realms where memory is molded by hand, and execution flows are bent to my absolute will.
+I'm **thyrn90**. You can think of this place as an old forge. I don't care much for bloated web trends; I spend my time tearing apart undocumented binaries, analyzing malware, and writing C/C++ or ASM that runs as close to the hardware limit as physically possible. 
 
-### 🔬 The Craft of the Forge
-- **Reverse Engineering:** Stripping away the illusions of modern compilers. I dismantle the armor of undocumented binaries to reveal the raw, naked opcodes beneath.
-- **Malware Analysis:** Staring into the void. Isolating and dissecting malicious payloads to expose the dark architecture of the adversary.
-- **Vulnerability Research:** Finding the hairline fractures in the digital steel. Exploiting memory leaks, buffer overflows, and deeply hidden architectural flaws.
-- **Bare-Metal Engineering:** Crafting hyper-optimized, zero-latency mechanisms. No bloat. Just the pure, unyielding force of raw execution.
+### What goes on in the forge:
+- **Reverse Engineering:** Tearing down compiled black-boxes to see how they actually tick. 
+- **Malware Analysis:** Isolating and dissecting payloads to figure out how the adversary thinks.
+- **Vulnerability Research:** Hunting for memory leaks, buffer overflows, and architectural blind spots.
+- **Low-Level Development:** Building zero-latency, hyper-optimized systems. No bloat, no unnecessary dependencies. Just raw execution.
 
-### ⚙️ The Iron Arsenal
+### My Workbench
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -26,8 +25,3 @@ Long before the modern era of fragile frameworks and comforting high-level abstr
   <img src="https://img.shields.io/badge/GNU_Debugger-336699?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
   <img src="https://img.shields.io/badge/Radare2-FF0000?style=for-the-badge&logo=radare2&logoColor=white" alt="Radare2" />
 </p>
-
----
-<div align="center">
-  <p><i>The compiler lies. The binary is the only truth.</i></p>
-</div>
