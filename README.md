@@ -14,6 +14,10 @@ I'm **thyrn90**. You can think of this place as an old forge. I don't care much 
 - **Vulnerability Research:** Hunting for memory leaks, buffer overflows, and architectural blind spots.
 - **Low-Level Development:** Building zero-latency, hyper-optimized systems. No bloat, no unnecessary dependencies. Just raw execution.
 
+https://img.shields.io/badge/Status-Open_for_Collaboration-brightgreen- ## 📬 Contact
+- **Email:** thyrn90 [at] proton [dot] me
+- **Discord:** thyrn90
+
 ### My Workbench
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
