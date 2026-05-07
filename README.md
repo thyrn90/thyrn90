@@ -1,21 +1,26 @@
 # thyrn90
 
-*"Currently staring at assembly code until it makes sense."*
+*"source code is just a spoiler. the binary is the only thing that doesn't lie."*
 
-Hi, I'm **thyrn90**. I spend most of my time living in the digital basement, fighting with Ghidra's decompiler and staring at yellow cubes in dnSpy. 
+---
 
-I have a weird hobby of taking things apart just to see how they tick. When I'm not dissecting undocumented binaries or trying to understand what the original dev was thinking, I'm probably writing C/C++ code and accidentally creating my own memory leaks (😂). I prefer low-level programming because why do things the easy way when you can manage your own pointers?
+low-level enthusiast living in the digital basement. i spend way too much time staring at hex because high-level abstractions feel like lying to myself. 
 
-If you need me, I'm either deep inside a debugger or trying to center a `div` (just kidding, I don't do web).
+i take things apart to see how they tick. usually found manual unpacking what your "anti-tamper" tried to hide, fighting with ida pro's graph view, or trying to convince ghidra that it's wrong about a pointer. 
 
-### The Toolkit
+living in ring 0 because ring 3 is too crowded. if it’s compiled, i’ll probably decompile it. if it’s obfuscated, i’ll take it as a personal challenge. 
+
+- **expertise:** manual unpacking, binary deobfuscation, and finding memory leaks i created myself.
+- **tools of choice:** ida pro, binary ninja, radare2, and windbg for when things get really ugly.
+- **warning:** i speak fluent x86_64 but i still don't know how to center a div. please don't ask.
+
+### the forge
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Assembly-1E4D00?style=for-the-badge&logo=nasm&logoColor=white" alt="x86_64 ASM" />
-  <img src="https://img.shields.io/badge/Ghidra-B52A2A?style=for-the-badge" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/GNU_Debugger-336699?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
-  <img src="https://img.shields.io/badge/Radare2-FF0000?style=for-the-badge&logo=radare2&logoColor=white" alt="Radare2" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASM-1E4D00?style=flat-square&logo=nasm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-1E4E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ghidra-B52A2A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windbg-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-📬 **Discord:** `thyrn90` &nbsp; | &nbsp; **Email:** `thyrn90 [at] proton [dot] me`
+📬 **discord:** `thyrn90` | **mail:** `thyrn90 [at] proton [dot] me`
