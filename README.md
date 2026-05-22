@@ -15,3 +15,6 @@ living in ring 0 because ring 3 is too crowded. if it’s compiled, i’ll proba
 - **warning:** i speak fluent x86_64 but i still don't know how to center a div. please don't ask.
 
 📬 **discord:** `thyrn90` | **mail:** `thyrn90 [at] proton [dot] me`
+
+<!--😊😊-->
+![Profile Views](https://komarev.com/ghpvc/?username=thyrn90&label=Profile%20Views&color=0e75b6&style=flat)
